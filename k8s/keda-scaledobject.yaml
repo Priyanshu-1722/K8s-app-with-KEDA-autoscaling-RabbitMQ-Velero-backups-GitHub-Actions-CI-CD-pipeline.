@@ -1,0 +1,14 @@
+apiVersion: keda.sh/v1alpha1
+kind: ScaledObject
+metadata:
+  name: backend-scaledobject
+  namespace: fullstack-app
+spec:
+  scaleTargetRef:
+    name: backend
+  triggers:
+    - type: rabbitmq
+      metadata:
+        queueName: test
+        queueLength: "5"
+        host: "amqp://guest:guest@rabbitmq.fullstack-app.svc.cluster.local:5672/"
