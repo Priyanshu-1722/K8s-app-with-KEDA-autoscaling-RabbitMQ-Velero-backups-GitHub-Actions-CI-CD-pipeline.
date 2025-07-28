@@ -1,8 +1,4 @@
-Here's a full **GitHub `README.md`** file for your full-stack Kubernetes project with all the key technologies (Vue, FastAPI, KEDA, RabbitMQ, Velero, GitHub Actions CI/CD, etc.):
-
----
-
-```markdown
+```
 # 🚀 Full-Stack Kubernetes App with KEDA, RabbitMQ, Velero & GitHub Actions CI/CD
 
 This project demonstrates deploying a full-stack web application on Kubernetes with:
