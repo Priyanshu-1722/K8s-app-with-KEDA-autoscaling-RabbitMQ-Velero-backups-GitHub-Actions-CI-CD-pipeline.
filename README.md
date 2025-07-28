@@ -28,7 +28,7 @@ This project demonstrates deploying a full-stack web application on Kubernetes w
 | Monitoring    | Prometheus + Grafana (optional)        |
 
 ---
-
+```
 ## 📁 Project Structure
 
 ````
