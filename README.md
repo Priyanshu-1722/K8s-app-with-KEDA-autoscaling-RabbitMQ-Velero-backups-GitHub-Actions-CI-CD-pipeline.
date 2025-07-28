@@ -1,6 +1,6 @@
-```
-# 🚀 Full-Stack Kubernetes App with KEDA, RabbitMQ, Velero & GitHub Actions CI/CD
 
+# 🚀 Full-Stack Kubernetes App with KEDA, RabbitMQ, Velero & GitHub Actions CI/CD
+```
 This project demonstrates deploying a full-stack web application on Kubernetes with:
 
 - ⚙️ KEDA for event-driven autoscaling using RabbitMQ
