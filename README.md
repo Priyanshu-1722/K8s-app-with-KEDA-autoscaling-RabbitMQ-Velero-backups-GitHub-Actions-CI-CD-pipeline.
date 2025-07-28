@@ -3,11 +3,11 @@
 
 This project demonstrates deploying a full-stack web application on Kubernetes with:
 
-- ⚙️ **KEDA** for event-driven autoscaling using RabbitMQ
-- 📨 **RabbitMQ** for messaging between frontend and backend
-- 💾 **Velero** for scheduled backups of Kubernetes resources and persistent volumes
-- 🔁 **GitHub Actions** for CI/CD (build, test, deploy)
-- 📈 **Prometheus + Grafana** (optional) for monitoring and observability
+- ⚙️ KEDA for event-driven autoscaling using RabbitMQ
+- 📨 RabbitMQ for messaging between frontend and backend
+- 💾 Velero for scheduled backups of Kubernetes resources and persistent volumes
+- 🔁 GitHub Actions for CI/CD (build, test, deploy)
+- 📈 Prometheus + Grafana (optional) for monitoring and observability
 
 > A production-grade, DevOps-ready application stack built with modern cloud-native tooling.
 
